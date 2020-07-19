@@ -85,7 +85,6 @@ header {
 }
 .principal section {
   width: 50%;
-  border: 1px solid black;
 }
 .seccion1 {
   display: flex;
@@ -246,6 +245,7 @@ header {
   }
   .seccion4 {
     order: 4;
+    margin-top: 20px;
   }
   .seccion4__titulo {
     background-color: var(--color-rosado);
@@ -261,4 +261,3 @@ header {
     left: 0;
   }
 }
-
